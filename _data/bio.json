@@ -12,9 +12,7 @@
       { "network": "github", "username": "trustinai", "url": "http://github.com/trustinai" },
       { "network": "linkedin", "username": "anselm-haselhoff", "url": "https://www.linkedin.com/in/anselm-haselhoff-25955bb0/" },
       { "network": "twitter", "username": "Haselhoff3596A", "url": "https://twitter.com/Haselhoff3596A" },
-      { "network": "orcid", "username": "0009-0007-9489-6395", "url": "https://orcid.org/0009-0007-9489-6395" },
-      { "network": "google", "username": "Anselm Haselhoff", "url": "https://scholar.google.de/citations?user=cEBWyEQAAAAJ&hl" },
-      { "network": "researchgate", "username": "Anselm-Haselhoff", "url": "https://www.researchgate.net/profile/Anselm-Haselhoff" }
+      { "network": "google", "username": "Anselm Haselhoff", "url": "https://scholar.google.de/citations?user=cEBWyEQAAAAJ&hl" }
     ]
   },
   "interests": [
