@@ -1,18 +1,27 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Anselm Haselhoff",
+    "label": "Professor",
+    "picture": "https://github.com/trustinai.png",
+    "email": "anselm.haselhoff@hs-ruhrwest.de",
+    "phone": "+49 208 882 54 - 829",
+    "website": "https://trustin.ai",
+    "summary": "Anselm Haselhoff is a Professor for Vehicle Information Technology at the Computer Science Institute of Ruhr West University of Applied Sciences. He completed his Bachelor’s and Master’s degrees in Information Technology at the University of Wuppertal, with additional studies at Queensland University of Technology. Professor Haselhoff’s PhD research, supervised by Prof. Dr. Anton Kummert, focused on machine learning and computer vision for vehicle perception.
+
+Currently leading the Trustworthy AI Laboratory at Ruhr West University of Applied Sciences, he has also had the opportunity to collaborate with leading researchers globally, including a stint as a visiting researcher at Sydney AI Center (Director Tongliang Liu) at the University of Sydney. His professional journey includes practical industry experience at Delphi Deutschland GmbH (now Aptiv PLC), where he contributed to advancements in computer vision for autonomous vehicles. 
+
+Professor Haselhoff’s research interests encompass machine learning, deep learning, autonomous driving, and computer vision, specifically targeting areas such as:
+
+explainable machine learning,
+uncertainty quantification and calibration,
+probabilistic and generative models,
+sensor data fusion,
+object detection and tracking.",
+    "location": { "address": "", "postalCode": "46236", "city": "Bottrop", "countryCode": "Germany", "region": "" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
+      { "network": "github", "username": "trustinai", "url": "http://github.com/trustinai" },
+      { "network": "linkedin", "username": "anselm-haselhoff", "url": "https://www.linkedin.com/in/anselm-haselhoff-25955bb0/" },
       { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
@@ -25,12 +34,8 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Python", "PyTorch", "Tensorflow" ]
     },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
-    }
   ],
   "education": [
     {
