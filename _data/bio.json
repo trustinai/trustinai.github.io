@@ -6,7 +6,8 @@
     "email": "anselm.haselhoff@hs-ruhrwest.de",
     "phone": "+49 208 882 54 - 829",
     "website": "https://trustin.ai",
-    "summary": "I am a Professor of Vehicle Information Technology at the Computer Science Institute of Ruhr West University of Applied Sciencesspecializing in machine learning, computer vision, and trustworthy AI.",
+    "summary": "I am a Professor of Vehicle Information Technology at the Computer Science Institute of Ruhr West University of Applied Sciences,
+    specialized in machine learning, computer vision, and trustworthy AI.",
     "location": { "address": "", "postalCode": "46236", "city": "Bottrop", "countryCode": "Germany", "region": "" },
     "profiles": [
       { "network": "github", "username": "trustinai", "url": "http://github.com/trustinai" },
@@ -23,11 +24,5 @@
     { "name": "Sensor Data Fusion" },
     { "name": "Object Detection and Tracking" },
     { "name": "Probabilistic and Generative Models" }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Python", "PyTorch", "Tensorflow" ]
-    },
   ],
 }
