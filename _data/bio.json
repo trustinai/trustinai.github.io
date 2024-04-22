@@ -6,30 +6,23 @@
     "email": "anselm.haselhoff@hs-ruhrwest.de",
     "phone": "+49 208 882 54 - 829",
     "website": "https://trustin.ai",
-    "summary": "Anselm Haselhoff is a Professor for Vehicle Information Technology at the Computer Science Institute of Ruhr West University of Applied Sciences. He completed his Bachelor’s and Master’s degrees in Information Technology at the University of Wuppertal, with additional studies at Queensland University of Technology. Professor Haselhoff’s PhD research, supervised by Prof. Dr. Anton Kummert, focused on machine learning and computer vision for vehicle perception.
-
-Currently leading the Trustworthy AI Laboratory at Ruhr West University of Applied Sciences, he has also had the opportunity to collaborate with leading researchers globally, including a stint as a visiting researcher at Sydney AI Center (Director Tongliang Liu) at the University of Sydney. His professional journey includes practical industry experience at Delphi Deutschland GmbH (now Aptiv PLC), where he contributed to advancements in computer vision for autonomous vehicles. 
-
-Professor Haselhoff’s research interests encompass machine learning, deep learning, autonomous driving, and computer vision, specifically targeting areas such as:
-
-explainable machine learning,
-uncertainty quantification and calibration,
-probabilistic and generative models,
-sensor data fusion,
-object detection and tracking.",
+    "summary": "I am a Professor of Vehicle Information Technology at the Computer Science Institute of Ruhr West University of Applied Sciencesspecializing in machine learning, computer vision, and trustworthy AI.",
     "location": { "address": "", "postalCode": "46236", "city": "Bottrop", "countryCode": "Germany", "region": "" },
     "profiles": [
       { "network": "github", "username": "trustinai", "url": "http://github.com/trustinai" },
       { "network": "linkedin", "username": "anselm-haselhoff", "url": "https://www.linkedin.com/in/anselm-haselhoff-25955bb0/" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
+      { "network": "twitter", "username": "Haselhoff3596A", "url": "https://twitter.com/Haselhoff3596A" },
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Machine Learning" },
+    { "name": "Computer Vision" },
+    { "name": "Deep Learning" },
+    { "name": "Explainable Machine Learning" },
+    { "name": "Autonomous Driving" },
+    { "name": "Sensor Data Fusion" },
+    { "name": "Object Detection and Tracking" },
+    { "name": "Probabilistic and Generative Models" }
   ],
   "skills": [
     {
@@ -37,87 +30,4 @@ object detection and tracking.",
       "keywords": [ "C", "C++", "Python", "PyTorch", "Tensorflow" ]
     },
   ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
-    }
-  ]
 }
