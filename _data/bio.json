@@ -12,7 +12,8 @@
       { "network": "github", "username": "trustinai", "url": "http://github.com/trustinai" },
       { "network": "linkedin", "username": "anselm-haselhoff", "url": "https://www.linkedin.com/in/anselm-haselhoff-25955bb0/" },
       { "network": "twitter", "username": "Haselhoff3596A", "url": "https://twitter.com/Haselhoff3596A" },
-      { "network": "googlescholar", "username": "Anselm Haselhoff", "url": "https://scholar.google.de/citations?user=cEBWyEQAAAAJ&hl" }
+      { "network": "googlescholar", "username": "Anselm Haselhoff", "url": "https://scholar.google.de/citations?user=cEBWyEQAAAAJ&hl" },
+      { "network": "researchgate", "username": "Anselm-Haselhoff", "url": "https://www.researchgate.net/profile/Anselm-Haselhoff" }
     ]
   },
   "interests": [
