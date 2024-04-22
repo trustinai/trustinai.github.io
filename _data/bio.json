@@ -11,7 +11,7 @@
     "profiles": [
       { "network": "github", "username": "trustinai", "url": "http://github.com/trustinai" },
       { "network": "linkedin", "username": "anselm-haselhoff", "url": "https://www.linkedin.com/in/anselm-haselhoff-25955bb0/" },
-      { "network": "twitter", "username": "Haselhoff3596A", "url": "https://twitter.com/Haselhoff3596A" },
+      { "network": "twitter", "username": "TrustInAILab", "url": "https://twitter.com/TrustInAILab" },
       { "network": "google", "username": "Anselm Haselhoff", "url": "https://scholar.google.de/citations?user=cEBWyEQAAAAJ&hl" }
     ]
   },
