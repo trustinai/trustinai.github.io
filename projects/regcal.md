@@ -3,7 +3,7 @@ layout: project
 type: project
 published: true
 image:  img/regcal.png
-title: Multivariate Confidence Calibration for Object Detection
+title: Parametric and Multivariate Uncertainty Calibration for Regression and Object Detection
 date: 2022
 labels:
   - Neural Networks
