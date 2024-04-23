@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image:  img/carousel1.png
+image:  img/regcal.png
 title: Multivariate Confidence Calibration for Object Detection
 date: 2022
 labels:
