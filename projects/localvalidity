@@ -1,0 +1,18 @@
+---
+layout: project
+type: project
+published: true
+image:  img/localvalidity.png
+title: Quantifying Local Model Validity using Active Learning
+date: 2024
+labels:
+  - Neural Networks
+  - Uncertainty Quantification
+  - Gaussian Processes
+  - Limit State
+  - Model Validity
+  - Active Learning
+summary: Machine learning models in real-world applications must often meet regulatory standards, requiring low approximation errors. Global metrics are too insensitive, and local validity checks are costly. This method learns model error to estimate local validity efficiently using active learning, requiring less data. It demonstrates better sensitivity to local validity changes and effective error modeling with minimal data.
+projecturl: https://trustinai.github.io/LocalModelValidity/
+---
+
