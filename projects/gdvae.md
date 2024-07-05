@@ -3,7 +3,7 @@ layout: project
 type: project
 published: true
 image:  https://trustinai.github.io/gdvae/static/images/GdVAEallSmall.png
-title: Bayesian Confidence Calibration for Epistemic Uncertainty Modelling
+title: The Gaussian Discriminant Variational Autoencoder (GdVAE): A Self-Explainable Model with Counterfactual Explanations
 date: 2024
 labels:
   - Self-explainable Model
