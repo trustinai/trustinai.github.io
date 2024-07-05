@@ -2,8 +2,8 @@
 layout: project
 type: project
 published: true
-image:  img/regcal.png
-title: The Gaussian Discriminant Variational Autoencoder (GdVAE)
+image:  img/GdVAEallSmall.png
+title: The Gaussian Discriminant Variational Autoencoder: A Self-Explainable Model with Counterfactual Explanations
 date: 2024
 labels:
   - Self-explainable Model
