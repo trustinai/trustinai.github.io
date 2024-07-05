@@ -2,18 +2,15 @@
 layout: project
 type: project
 published: true
-title: The Gaussian Discriminant Variational Autoencoder (GdVAE): A Self-Explainable Model with Counterfactual Explanations
-date: 2024
+image:  img/regcal.png
+title: Parametric and Multivariate Uncertainty Calibration for Regression and Object Detection
+date: 2022
 labels:
-  - Self-explainable Model
-  - Counterfactual Explanation
-  - Riemannian Metric
-  - Manifold Traversal
   - Neural Networks
-  - Generative Models
-  - Variational Autoencoder
+  - Uncertainty Calibration
+  - Regression Calibration
+summary: We inspect the calibration properties of common detection networks and extend state-of-the-art recalibration methods. Our methods use a Gaussian process (GP) recalibration scheme that yields parametric distributions as output (e.g. Gaussian or Cauchy). The usage of GP recalibration allows for a local (conditional) uncertainty calibration by capturing dependencies between neighboring samples.
 
-summary: We introduce the GdVAE, a self-explainable model that employs transparent prototypes in a white-box classifier. Alongside class predictions, we provide counterfactual explanations. 
-
-projecturl: https://trustinai.github.io/gdvae/
+projecturl: https://trustinai.github.io/regcal/
 ---
+
