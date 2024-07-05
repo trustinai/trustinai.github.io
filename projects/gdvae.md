@@ -8,7 +8,6 @@ date: 2024
 labels:
   - Self-explainable Model
   - Counterfactual Explanation
-  - Riemannian Metric
   - Manifold Traversal
   - Generative Models
   - Variational Autoencoder
