@@ -10,7 +10,6 @@ labels:
   - Counterfactual Explanation
   - Riemannian Metric
   - Manifold Traversal
-  - Neural Networks
   - Generative Models
   - Variational Autoencoder
 summary: We introduce the GdVAE, a self-explainable model that employs transparent prototypes in a white-box classifier. Alongside class predictions, we provide counterfactual explanations. 
